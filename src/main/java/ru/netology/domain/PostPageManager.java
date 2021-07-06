@@ -14,34 +14,5 @@ public class PostPageManager {
     public Repost repost;
     private Views views;
 }
+// + get/set на все поля
 
-
-//    private PostPageManager[] AuthorDataPost;
-//    private PostPageManager[] Comments;
-//
-//    public String generate() {
-//        Movie[] movies = movieManager.getMoviesForFeed();
-//        // TODO: add logic
-//        for (Movie movie : movies) {
-//            String block = movie.getGenre();
-//        }
-//        return null;
-//
-//    private BlockManager[] CommunityPosts;
-//    private BlockManager[] CommunityPosts;
-//    private BlockManager[] CommunityPosts;
-// сюда можно класть любых менеджеров
-
-
-//+ getters/setters
-
-/**
- * Main Page generation
- */
-//    public String generate() {
-//        for (PostPageManager manager : AuthorDataPost) {
-//            String block = manager.authorDataPost(); //но метод у каждого свой (со своей логикой)
-//        }// TODO: add logic
-//        return null;
-//    }
-//}
