@@ -9,6 +9,5 @@ public class Comments {
     private String editComment; //может редактировать комментарий или нет
     private String dateComment;
 
-
     // + get/set на все поля
 }
