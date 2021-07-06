@@ -5,7 +5,7 @@ public class Likes {
     private int userLikes;
     private int canLike;
     private int canPublish;
-              
+
     // + get/set на все поля
 
 }
