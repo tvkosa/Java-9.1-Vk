@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class Comments {
+public class CommentsInfo {
     private int count;//число комментариев
     private boolean canPost; //может комментировать пост или нет
     private int idAuthorComment;

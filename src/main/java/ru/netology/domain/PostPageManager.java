@@ -9,10 +9,10 @@ public class PostPageManager {
     private String namePost;
     private String postText;
     private boolean addFavourites;
-    private Comments comments;
-    private Likes likes;
+    private CommentsInfo commentsInfo;
+    private LikesInfo likesInfo;
     private Repost repost;
-    private Views views;
+    private ViewsInfo viewsInfo;
 
     //добавляю поля
     private String postType; //тип записи, может принимать следующие значения: post, copy, reply, postpone, suggest.

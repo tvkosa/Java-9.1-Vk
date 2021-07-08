@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class Views {
+public class ViewsInfo {
     private int count;//счетчик
     // + get/set на все поля
 
